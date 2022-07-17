@@ -1,0 +1,28 @@
+.basic__example {
+    border: 2px solid red;
+}
+
+.stacked__example {
+    border: 1px solid blue;
+    margin-top: 50px;
+}
+
+.navdropdown__example {
+    border: 1px solid cyan;
+    margin-top: 50px;
+
+}
+
+.offcanvas__example {
+    border: 1px solid maroon;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.offcanvas__modified {
+    border: 1px solid burlywood;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
